@@ -3,6 +3,7 @@
 *.tmp
 
 config-test*.json
+server*-config.json
 
 # Dependencies
 node_modules/
@@ -11,3 +12,4 @@ yarn.lock
 
 # IDEs
 .idea/
+*.iml
